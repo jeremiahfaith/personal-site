@@ -1,0 +1,14 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+
+# Bundler
+.bundle/
+
+# OS junk
+.DS_Store
+
+push_to_local.sh

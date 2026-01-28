@@ -1,0 +1,60 @@
+---
+# Only the triple-dashes are required for Jekyll to process this file
+---
+
+@import "so-simple";
+@import url("https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css");
+
+
+/* Your overrides */
+img.float-right {
+  float: right;
+  height: auto;
+  margin: 0 0 1rem 1.5rem;
+}
+
+img.float-right.tiny  { max-width: 150px; }
+img.float-right.small  { max-width: 200px; }
+img.float-right.medium { max-width: 300px; }
+img.float-right.large  { max-width: 450px; }
+
+img.float-left {
+  float: left;
+  max-width: 200px;
+  height: auto;
+  margin: 0 0 1rem 1.5rem;
+}
+
+/* mobile override */
+/* mobile override */
+@media (max-width: 600px) {
+  .float-right {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem auto;
+    max-width: 90%;
+  }
+}
+
+/* swiper sizing */
+.swiper {
+  max-width: 700px;
+  margin: 2rem auto;
+}
+
+.swiper img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+/* narrow one specific slide */
+.swiper-slide.narrow img {
+  max-width: 400px;   /* adjust as needed */
+  margin: 0 auto;     /* center the image */
+}
+
+.slide-caption {
+  text-align: center;
+}
