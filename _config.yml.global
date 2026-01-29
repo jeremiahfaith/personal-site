@@ -27,8 +27,8 @@ twitter_username: jeremiahfaith1
 
 # Build settings
 #theme: minima
-baseurl: "/jeremiahfaith"   # IMPORTANT: no trailing slash
-url: ""                     # for local apache; leave blank
+#baseurl: "/jeremiahfaith"   # IMPORTANT: no trailing slash
+#url: ""                     # for local apache; leave blank
 plugins:
   - jekyll-feed
 
