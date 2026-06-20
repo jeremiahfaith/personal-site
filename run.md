@@ -7,9 +7,9 @@ Although Science and Music have been my primary interests for the past couple de
 
 | Distance | Target to beat | Best so far |
 |---|---|---|
-| Mile | 5:15 | 5:32 |
-| 5K | 19:00| 19:57|
-| 10K | 40:00| 43:23|
+| Mile | 5:15 | 5:32 (Sept 2025)|
+| 5K | 19:00| 19:29 (Jun 2026)|
+| 10K | 40:00| 43:23 (Jun 2025)|
 | 10 mile | 1:10:00 | never tried|
 
 
