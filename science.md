@@ -11,4 +11,4 @@ In the present translational research of our lab, we are focused on determining 
 
 For more information on our science, look at our laboratory's website: [Faith lab](http://faithlab.mssm.edu/)
 
-I'm also active in consulting, collaborating, and sitting on advisory boards with biotech companies to help bring drugs to the market. I have worked with Vedanta Biosciences, Janssen, Seed, Biomx, Janssen, Genfit, and Innovation Pharmaceuticals.
+I'm also active in consulting, collaborating, and sitting on advisory boards with biotech companies to help bring drugs to market. I have worked with Vedanta Biosciences, Janssen, Seed, Biomx, Janssen, Genfit, and Innovation Pharmaceuticals.
