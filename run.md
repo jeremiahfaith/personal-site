@@ -16,17 +16,30 @@ Although Science and Music have been my primary interests for the past couple de
 Some of my favorite runs:
 <div class="swiper">
   <div class="swiper-wrapper">
-
     <div class="swiper-slide">
-      <img src="{{ '/assets/images/run/canmore.jpg' | relative_url }}" alt="Canmore">
-      <p class="slide-caption">Goat Pond, Canmore, Canada 2025</p>
+      <img src="{{ '/assets/images/run/Hinxton_UK_2026.jpg' | relative_url }}" alt="Hinxton, UK">
+      <p class="slide-caption">Hinxton, UK 2026</p>
     </div>
-
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/run/death_valley_2026b_JJF.jpg' | relative_url }}" alt="Death Valley">
+      <p class="slide-caption">Badwater Road, Death Valley, California, USA 2026</p>
+    </div>
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/run/paris_2025.jpg' | relative_url }}" alt="Paris">
+      <p class="slide-caption">Paris, France 2025</p>
+    </div>
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/run/Geneva_2025.jpg' | relative_url }}" alt="Geneva">
+      <p class="slide-caption">Geneva, Switzerland 2025</p>
+    </div>
     <div class="swiper-slide narrow">
       <img src="{{ '/assets/images/run/catskills.jpg' | relative_url }}" alt="Catskills">
       <p class="slide-caption">Slide Mountain, Catskills New York, USA 2025</p>
     </div>
-
+    <div class="swiper-slide">
+      <img src="{{ '/assets/images/run/canmore.jpg' | relative_url }}" alt="Canmore">
+      <p class="slide-caption">Goat Pond, Canmore, Canada 2025</p>
+    </div>
     <div class="swiper-slide narrow">
       <img src="{{ '/assets/images/run/5th_ave_mile.jpg' | relative_url }}" alt="5th ave mile">
       <p class="slide-caption">5th Avenue Mile, New York, New York, USA 2025</p>
@@ -38,18 +51,6 @@ Some of my favorite runs:
     <div class="swiper-slide">
       <img src="{{ '/assets/images/run/red_rock_canyon.jpg' | relative_url }}" alt="Red Rock Canyon">
       <p class="slide-caption">Red Rock Canyon, Nevada, USA 2025</p>
-    </div>
-    <div class="swiper-slide">
-      <img src="{{ '/assets/images/run/Geneva_2025.jpg' | relative_url }}" alt="Geneva">
-      <p class="slide-caption">Geneva, Switzerland 2025</p>
-    </div>
-    <div class="swiper-slide">
-      <img src="{{ '/assets/images/run/paris_2025.jpg' | relative_url }}" alt="Paris">
-      <p class="slide-caption">Paris, France 2025</p>
-    </div>
-    <div class="swiper-slide">
-      <img src="{{ '/assets/images/run/death_valley_2026b_JJF.jpg' | relative_url }}" alt="Death Valley">
-      <p class="slide-caption">Badwater Road, Death Valley, California, USA 2026</p>
     </div>
 
   </div>
